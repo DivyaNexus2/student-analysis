@@ -20,4 +20,4 @@ This project analyzes data to find patterns and predict outcomes using Python.
 2. Run the Python file or Jupyter Notebook
 
 ## Author
-Divya
+Divya Mahalakshmi
